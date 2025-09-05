@@ -127,8 +127,7 @@ const unsigned long WARMUP_TIME_MS = 45000;  // Tempo aquecimento (45s)
 - **Aquecimento**: Não interrompa o período de aquecimento
 - **Ventilação**: Use em local ventilado durante testes
 - **Alimentação**: Sensor pode consumir até 150mA
-- **Precisão**: Este é um projeto educacional, não substitui detectores comerciais
-
+  
 ## 🛠️ Melhorias Possíveis
 
 - Adicionar comunicação WiFi/Bluetooth
@@ -136,10 +135,3 @@ const unsigned long WARMUP_TIME_MS = 45000;  // Tempo aquecimento (45s)
 - Criar interface web para monitoramento
 - Adicionar mais tipos de sensores
 - Implementar diferentes níveis de alarme
-
-## 📞 Suporte
-
-Para dúvidas sobre o código ou montagem, abra uma issue no repositório com:
-- Descrição do problema
-- Fotos da montagem (se possível)
-- Mensagens de erro (se houver)
